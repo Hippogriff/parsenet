@@ -1,6 +1,8 @@
 # ParSeNet: A Parametric Surface Fitting Network for 3D Point Clouds
 Authors: [Gopal Sharma](https://hippogriff.github.io/), Difan Liu, Evangelos Kalogerakis, Subhransu Maji, Siddhartha Chaudhuri, Radomír Měch
 
+[Paper](https://arxiv.org/pdf/2003.12181.pdf)
+
 **Code and dataset are coming soon!**
 
 ![](parsenet-gallery.jpg)
